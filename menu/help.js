@@ -104,14 +104,13 @@ ${a}UNTUK FITUR TERUPDATE SILAHKAN KETIK${a} *${prefix}infobot*
 ╭────≽「 *SUPPORT ${name}* 」
 ┴
 │➲ ${a}O BOT${a}
-│➲ ${a}M. HADI FIRMANSYA${a}
-│➲ ${a}DELIA AULIA${a}
-│➲ ${a}KEVIN DAVID${a}
-│➲ ${a}MY TEAM FXC7 BOT${a}
-│➲ ${a}PENYEDIA REST API${a}
+│➲ ${a}M. Andi${a}
+│➲ ${a}Enola Holmes${a}
+│➲ ${a}Sherlock Holmes${a}
+│➲ ${a}MY TEAM Holmes BOT${a}
 │➲ ${a}CONTENT CREATOR BOT WHATSAPP${a}
 ┬
-╰──────≽ *Created © FXC7*`
+╰──────≽ *Created © Andi*`
 }
 
 exports.help = help
