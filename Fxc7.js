@@ -109,7 +109,7 @@ const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n'
             + 'FN:Andi\n'
             + 'ORG:Owner Sherlock;\n'
-            + 'TEL;type=CELL;type=VOICE;waid=6285157339602:+62 851-5733-9602\n'
+            + 'TEL;type=CELL;type=VOICE;waid=6282292119677:+62 822-9211-9677\n'
             + 'END:VCARD'
 
 function kyun(seconds){
